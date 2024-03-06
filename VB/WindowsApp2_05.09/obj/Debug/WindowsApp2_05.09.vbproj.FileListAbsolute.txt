@@ -1,0 +1,13 @@
+C:\Users\husni\source\repos\WindowsApp2_05.09\bin\Debug\WindowsApp2_05.09.exe.config
+C:\Users\husni\source\repos\WindowsApp2_05.09\bin\Debug\WindowsApp2_05.09.exe
+C:\Users\husni\source\repos\WindowsApp2_05.09\bin\Debug\WindowsApp2_05.09.pdb
+C:\Users\husni\source\repos\WindowsApp2_05.09\bin\Debug\WindowsApp2_05.09.xml
+C:\Users\husni\source\repos\WindowsApp2_05.09\obj\Debug\WindowsApp2_05.09.vbproj.AssemblyReference.cache
+C:\Users\husni\source\repos\WindowsApp2_05.09\obj\Debug\WindowsApp2_05.09.vbproj.SuggestedBindingRedirects.cache
+C:\Users\husni\source\repos\WindowsApp2_05.09\obj\Debug\WindowsApp2_05._09.Form1.resources
+C:\Users\husni\source\repos\WindowsApp2_05.09\obj\Debug\WindowsApp2_05._09.Resources.resources
+C:\Users\husni\source\repos\WindowsApp2_05.09\obj\Debug\WindowsApp2_05.09.vbproj.GenerateResource.cache
+C:\Users\husni\source\repos\WindowsApp2_05.09\obj\Debug\WindowsApp2_05.09.vbproj.CoreCompileInputs.cache
+C:\Users\husni\source\repos\WindowsApp2_05.09\obj\Debug\WindowsApp2_05.09.exe
+C:\Users\husni\source\repos\WindowsApp2_05.09\obj\Debug\WindowsApp2_05.09.xml
+C:\Users\husni\source\repos\WindowsApp2_05.09\obj\Debug\WindowsApp2_05.09.pdb

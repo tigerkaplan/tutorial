@@ -1,0 +1,12 @@
+C:\Users\husni\source\repos\Output&Variables\bin\Debug\Output&Variables.exe.config
+C:\Users\husni\source\repos\Output&Variables\bin\Debug\Output&Variables.exe
+C:\Users\husni\source\repos\Output&Variables\bin\Debug\Output&Variables.pdb
+C:\Users\husni\source\repos\Output&Variables\bin\Debug\Output&Variables.xml
+C:\Users\husni\source\repos\Output&Variables\obj\Debug\Output&Variables.vbproj.AssemblyReference.cache
+C:\Users\husni\source\repos\Output&Variables\obj\Debug\Output_Variables.Form1.resources
+C:\Users\husni\source\repos\Output&Variables\obj\Debug\Output_Variables.Resources.resources
+C:\Users\husni\source\repos\Output&Variables\obj\Debug\Output&Variables.vbproj.GenerateResource.cache
+C:\Users\husni\source\repos\Output&Variables\obj\Debug\Output&Variables.vbproj.CoreCompileInputs.cache
+C:\Users\husni\source\repos\Output&Variables\obj\Debug\Output&Variables.exe
+C:\Users\husni\source\repos\Output&Variables\obj\Debug\Output&Variables.xml
+C:\Users\husni\source\repos\Output&Variables\obj\Debug\Output&Variables.pdb

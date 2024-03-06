@@ -1,0 +1,12 @@
+C:\Users\husni\source\repos\Class&OOP2\bin\Debug\Class&OOP2.exe.config
+C:\Users\husni\source\repos\Class&OOP2\bin\Debug\Class&OOP2.exe
+C:\Users\husni\source\repos\Class&OOP2\bin\Debug\Class&OOP2.pdb
+C:\Users\husni\source\repos\Class&OOP2\bin\Debug\Class&OOP2.xml
+C:\Users\husni\source\repos\Class&OOP2\obj\Debug\Class&OOP2.vbproj.AssemblyReference.cache
+C:\Users\husni\source\repos\Class&OOP2\obj\Debug\Class_OOP2.Form1.resources
+C:\Users\husni\source\repos\Class&OOP2\obj\Debug\Class_OOP2.Resources.resources
+C:\Users\husni\source\repos\Class&OOP2\obj\Debug\Class&OOP2.vbproj.GenerateResource.cache
+C:\Users\husni\source\repos\Class&OOP2\obj\Debug\Class&OOP2.vbproj.CoreCompileInputs.cache
+C:\Users\husni\source\repos\Class&OOP2\obj\Debug\Class&OOP2.exe
+C:\Users\husni\source\repos\Class&OOP2\obj\Debug\Class&OOP2.xml
+C:\Users\husni\source\repos\Class&OOP2\obj\Debug\Class&OOP2.pdb

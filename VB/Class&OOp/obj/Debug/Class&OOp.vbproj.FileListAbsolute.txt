@@ -1,0 +1,12 @@
+C:\Users\husni\source\repos\Class&OOp\bin\Debug\Class&OOp.exe.config
+C:\Users\husni\source\repos\Class&OOp\bin\Debug\Class&OOp.exe
+C:\Users\husni\source\repos\Class&OOp\bin\Debug\Class&OOp.pdb
+C:\Users\husni\source\repos\Class&OOp\bin\Debug\Class&OOp.xml
+C:\Users\husni\source\repos\Class&OOp\obj\Debug\Class&OOp.vbproj.AssemblyReference.cache
+C:\Users\husni\source\repos\Class&OOp\obj\Debug\Class_OOp.Form1.resources
+C:\Users\husni\source\repos\Class&OOp\obj\Debug\Class_OOp.Resources.resources
+C:\Users\husni\source\repos\Class&OOp\obj\Debug\Class&OOp.vbproj.GenerateResource.cache
+C:\Users\husni\source\repos\Class&OOp\obj\Debug\Class&OOp.vbproj.CoreCompileInputs.cache
+C:\Users\husni\source\repos\Class&OOp\obj\Debug\Class&OOp.exe
+C:\Users\husni\source\repos\Class&OOp\obj\Debug\Class&OOp.xml
+C:\Users\husni\source\repos\Class&OOp\obj\Debug\Class&OOp.pdb
