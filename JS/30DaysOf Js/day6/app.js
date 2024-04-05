@@ -402,13 +402,106 @@ for (let i=0; i<=100; i++) {
 // console.log("Generated random ID:", randomID);
 
 //* Q2. Write a script which generates a random hexadecimal number.
-function generateRandomHexadecimal() {
-  let randomInt = Math.floor(Math.random() * 16777216);
-  //Convert the random integer to its hexadecimal representation
-  let randomHexadecimal = randomInt.toString(16).toUpperCase();
-  // ensure that the hexadecimal number has exactly
-  randomHexadecimal = randomHexadecimal.padStart(6, "0");
+// function generateRandomHexadecimal() {
+//   let randomInt = Math.floor(Math.random() * 16777216);
+//   //Convert the random integer to its hexadecimal representation
+//   let randomHexadecimal = randomInt.toString(16).toUpperCase();
+//   // ensure that the hexadecimal number has exactly
+//   randomHexadecimal = randomHexadecimal.padStart(6, "0");
 
-  return randomHexadecimal;
-  //
+//   return randomHexadecimal;
+// }
+
+// // Call the function to generate a random  hexadecimal number
+// let randomHexadecimalNumber = generateRandomHexadecimal();
+
+// // Print the generated random hexadecimal number
+// console.log("Generated random hexadecimal number:", randomHexadecimalNumber);
+
+//* Q3. Write a script which generates a random rgb color number. 
+//   function generateRandomRGBColor() {
+//   let red = Math.floor(Math.random() *256); // random value between 0 to 256
+//   let green = Math.floor(Math.random()*256);
+//   let blue = Math.floor(Math.random()*256);
+  
+//   // Construct the RGB color string
+//   let rgbColor = `rgb(${red}, ${green}, ${blue})`;
+//   return rgbColor;
+// }
+// // call the function to generate a random RGB color
+// let randomRGBColor = generateRandomRGBColor();
+// // print
+// console.log("Generated random RGB color", randomRGBColor);
+
+//* Q3. Using the above countries array, create the following new array.
+
+// // Original array of country names
+// const countries = [
+//   'Albania',
+//   'Bolivia',
+//   'Canada',
+//   'Denmark',
+//   'Ethiopia',
+//   'Finland',
+//   'Germany',
+//   'Hungary',
+//   'Ireland',
+//   'Japan',
+//   'Kenya'
+// ];
+
+
+// Create a new array with country names in uppercase
+const uppercaseCountries = countries.map(country => country.toUpperCase());
+
+// Print the new array
+console.log(uppercaseCountries);
+
+
+//* Q4. Using the above countries array, create an array for countries length'.  [7, 7, 6, 7, 8, 7, 7, 7, 7, 5, 5]
+
+// Create a new array with lengths of country names
+const countryNameLengths = countries.map(country => country.length);
+//Print the new array
+console.log(countryNameLengths)
+
+
+
+//* Q5.Use the countries array to create the following array of arrays:
+
+//   [
+//   ['Albania', 'ALB', 7],
+//   ['Bolivia', 'BOL', 7],
+//   ['Canada', 'CAN', 6],
+//   ['Denmark', 'DEN', 7],
+//   ['Ethiopia', 'ETH', 8],
+//   ['Finland', 'FIN', 7],
+//   ['Germany', 'GER', 7],
+//   ['Hungary', 'HUN', 7],
+//   ['Ireland', 'IRE', 7],
+//   ['Iceland', 'ICE', 7],
+//   ['Japan', 'JAP', 5],
+//   ['Kenya', 'KEN', 5]
+// ]
+
+// create the array of arrays
+
+const countriesInfo = countries.map(country => [country, country.slice(0,3).toUpperCase(), country.length])
+
+console.log(countriesInfo)
+
+
+//* Q6. In above countries array, check if there is a country or countries containing the word 'land'. If there are countries containing 'land', print it as array. If there is no country containing the word 'land', print 'All these countries are without land'. ['Fi(nland','Ireland', 'Iceland']
+
+// filter out
+
+countriesWithLand = countries.filter(country => country.toLowerCase().includes('land'));
+
+if (countriesWithLand.length>0 ) {
+  console.log  countriesWithLand.length )= countriesWithLand.length
 }
+
+//* Q7. Using the above countries array, create the following new array.
+//* Q3. Using the above countries array, create the following new array.
+//* Q3. Using the above countries array, create the following new array.
+//* Q3. Using the above countries array, create the following new array.
